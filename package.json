@@ -1,0 +1,17 @@
+{
+  "name": "celiburguer-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Letícia Fanan",
+    "url": "https://github.com/leticiafanan"
+  },
+  "license": "ISC",
+  "description": "celiburguer-api",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
